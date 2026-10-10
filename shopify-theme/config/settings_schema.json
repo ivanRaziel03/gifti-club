@@ -1,0 +1,7 @@
+[
+  {"name":"theme_info","theme_name":"Perrijo & Gatijo","theme_author":"Perrijo & Gatijo","theme_version":"1.0.0","theme_documentation_url":"https://help.shopify.com/manual/online-store/themes","theme_support_url":"https://help.shopify.com/"},
+  {"name":"Colores de marca","settings":[{"type":"color","id":"color_navy","label":"Azul noche","default":"#081050"},{"type":"color","id":"color_coral","label":"Coral eléctrico","default":"#FF6B6B"},{"type":"color","id":"color_mint","label":"Menta neón","default":"#A8F5D0"},{"type":"color","id":"color_ink","label":"Texto","default":"#20243A"},{"type":"color","id":"color_surface","label":"Fondo","default":"#FFFDF9"}]},
+  {"name":"Carrito y envío","settings":[{"type":"number","id":"free_shipping_threshold","label":"Umbral de envío gratis (MXN)","default":999,"info":"Introduce el importe en pesos, sin decimales."},{"type":"checkbox","id":"enable_cart_drawer","label":"Abrir carrito lateral al añadir","default":true}]},
+  {"name":"Redes sociales","settings":[{"type":"url","id":"instagram_url","label":"Instagram"},{"type":"url","id":"facebook_url","label":"Facebook"}]},
+  {"name":"Información de la tienda","settings":[{"type":"text","id":"contact_email","label":"Correo de contacto","default":"hola@perrijoygatijo.mx"}]}
+]
